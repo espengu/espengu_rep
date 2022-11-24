@@ -5,7 +5,7 @@
   Add your open source license, GitHub uses Creative Commons Attribution 4.0 International.
 -->
 
-# Introduction to GitHub, by espengu
+# Introduction to GitHub, by espengu, the senior host
 
 _Get started using GitHub in less than an hour._
 
